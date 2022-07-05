@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KadaiNationView</string>
+    <string name="default_name">Nation</string>
+    <string-array name="lv_menu">
+        <item>日本</item>
+        <item>アメリカ</item>
+        <item>中国</item>
+        <item>カナダ</item>
+        <item>インド</item>
+        <item>イギリス</item>
+        <item>フランス</item>
+        <item>ドイツ</item>
+        <item>イタリア</item>
+        <item>オーストラリア</item>
+        <item>ニュージーランド</item>
+        <item>エジプト</item>
+        <item>南アフリカ共和国</item>
+        <item>ブラジル</item>
+        <item>アルゼンチン</item>
+    </string-array>
+</resources>
